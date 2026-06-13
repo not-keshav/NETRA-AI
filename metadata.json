@@ -1,0 +1,10 @@
+{
+  "name": "NETRA Vision Agent",
+  "description": "An Autonomous Accessibility AI Agent designed for Microsoft Agent League Hackathon. Acts as the user's eyes by understanding, reasoning about, and narrating the surrounding world in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
